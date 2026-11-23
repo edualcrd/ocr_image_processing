@@ -1,0 +1,60 @@
+TABLE 1-2 LM BURN SCHEDULE
+GETt ATTITUDE (DEG) sve wT |
+BURN /MAMEUYER! THC MODE REF SOMAT RESULTANT REMARKS
+sore Te ei sale
+301: 38:48 BYk: 67.46 2 JET PGNCS AUTO LOG SITE WT: 33,404 OPS BURN
+28.5 SEC a¥T: | -28.68 7.5 SEC Ww: 8.97 !
+avs -12.51 1,3 FPS HA: S7.870H
+a¥ REQ: 70 FPS
+102: 35:13 avd: + 2 JET WT: 16,569
+VIMIN 58SEC avY: = 7.5 SEC Ww: 0
+avi: - 1.2 FPS HA: 0
+SV REQ: 6766
+SYK: - wi: 9,894
+avt: = AT INS
+avi: - HP: 60,000 fy
+4¥ REQ: 6060 WA: 45
+BVX: 49.5 LIFT OFF WT: 5875.0 RCS BURN
+avy: 0.0 Ww: 44.9
+avz: 0.0 HA: 45.0
+AV REQ: 49.5
+AVX: 0.0 LIFT OFF RCS ov 2 JET
+avy: 0.0 ous
+avd: 0.0 MOM LHALLY
+av REQ: 0.0 ZERO
+126: 39:37.0 OVX: rs) LIFT OFF WT: $842.9
+1.9 SEC avt: 0.0 (116)
+6vz: a Ww: 43.8
+av REQ: 4.3 WA: 45.3
+126:$8:08.4 avd: 22.0 WT: $840.1
+ind 22.4 SEC avy: 0.0 WP: 43.3
+iad avz:  -11.4 HA: 61.7
+4¥ REQ: 24.8
+AVE: 0.0 PGNCS AUTO LIFT OFF wT: = RCS + 2 2 JET
+ayy: 0.0 Ws = wR
+avz: 0.0 WA: = NOMIRALLY
+a¥ REQ: 0.0 . ZERO
+AVX: 0.0 PENCS AUTO LIFT OFF aS o 2 2 JET
+avy: 0.0 URN
+avd: 0.0 NOMIMALLT
+av REQ: 0.0 ZERO
+avd: 0.0 UAL WT: - RCS -2 2 JET
+avy: 0.0 WP: - umn
+az; 0.0 HA: - WOMIMALL Y
+av REQ: 0.0 ZERO
+OAYLIGHT aWX: + PGNCS AUTO LIFT OFF Wi: $824.1
+(sho 18 MIR) avy: HP: 49.0
+avg: = HA: 60.7
+av REQ: 12.0
+127: 40; 32.8 OAYRIGHT AYE: - PGNCS AUTO RIFT OFF WT: $816.4 RCS -2 2 JET
+8.8 SEC {SR + 20 MIN) AVY: - Ww: $3.7
+av2Z: WA: 60.3
+av REQ: 9.8
+vk: . LIFT OFF wT: $810.1 RCS -2 2 JET
+at: - Ww: $6.2
+avz: - HA: 60.1
+av 8EQ: 4.8
+avd: - PGS AUTO UUtFT OFF WT: $807.0
+avy: - HP: 59.9
+SVE: + WA: $8.9
+SV REQ: 4.7
