@@ -52,6 +52,11 @@ OCR/
 ├── requirements.txt
 └── README.md
 ```
+## Language
+
+The project documentation is written in English. However, comments and docstrings in the Python source code are written in Spanish, as the project was originally developed as part of a Spanish-language coursework assignment.
+
+This does not affect the execution or functionality of the project.
 
 ## Installation and configuration
 
